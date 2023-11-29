@@ -12,13 +12,14 @@ MySQL
 Instalación
 
 Clone el repositorio:
+
 git clone https://github.com/EnriqueVOZA/VozmedianoEnrique_PruebaTecnica2
+
 Instale las dependencias:
 Cree una base de datos MySQL con el nombre turnosbbdd.
 
-La aplicación se puede acceder en el siguiente URL:
+La aplicación se puede acceder en el siguiente URL: http://localhost:8080
 
-http://localhost:8080
 La aplicación tiene dos funciones principales:
 
 Crear un turno: Para crear un turno, complete el formulario en la página /index. 
