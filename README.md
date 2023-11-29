@@ -26,7 +26,7 @@ Crear un turno: Para crear un turno, complete el formulario en la página /index
 
 Los campos obligatorios son nombre, apellido, dni, telefono, tramite, fecha y hora.
 
-Filtrar turnos: Para filtrar turnos, complete el formulario en la página /index. Los campos de filtro son fechaInicio y estado.
+Filtrar turnos: Para filtrar turnos, complete el formulario en la página /index. Los campos de filtro son fecha y estado.
  
 El código cumple con los siguientes requisitos :
 
