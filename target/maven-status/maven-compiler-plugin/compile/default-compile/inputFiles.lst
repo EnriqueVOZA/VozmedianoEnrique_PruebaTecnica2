@@ -1,0 +1,15 @@
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/TurnoJpaController.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/exceptions/NonexistentEntityException.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/servlet/CambiarEstadoSv.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/servlet/fechaSv.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/JakartaRestConfiguration.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/resources/JakartaEE8Resource.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/logica/Ciudadano.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/logica/Controladora.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/CiudadanoJpaController.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/servlet/turnoSv.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/logica/Turno.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/ControladoraPersistencia.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/exceptions/PreexistingEntityException.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/servlet/BuscarTurnoSv.java
+/home/enriquevz/Escritorio/HaB/Proyecto2/JavaAvanzado/src/main/java/com/hab/javaavanzado/persistencia/exceptions/IllegalOrphanException.java
